@@ -9,8 +9,8 @@ setup(
         'numpy>=1.21.0',
         # 添加其他依赖项
     ],
-    author='Your Name',
-    author_email='your@email.com',
+    author='setup.py',
+    author_email='2175880049@qq.com',
     description='A package for earthquake disaster management',
     # 添加其他元数据
 )
