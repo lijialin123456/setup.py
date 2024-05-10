@@ -9,7 +9,7 @@ setup(
         'numpy>=1.21.0',
         # 添加其他依赖项
     ],
-    author='setup.py',
+    author='lijialin123456',
     author_email='2175880049@qq.com',
     description='A package for earthquake disaster management',
     # 添加其他元数据
